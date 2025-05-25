@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="name">Mohammad Shaikh</string>
+    <string name="role">Android Developer</string>
+    <string name="phone_number">+01 2345 678 910</string>
+    <string name="handle">\@AndroidDev</string>
+    <string name="email">email@gmail.com</string>
+</resources>
