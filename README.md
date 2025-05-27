@@ -16,4 +16,16 @@ All project ideas and most of the source code are based on the official course m
 
 ---
 
-More projects will be added as I progress through the course.
+## 🎲 Project: Dice Roller App
+
+- **Source**: [Dice Roller App Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-dice-roller)
+- **Summary**: A Compose-based app that simulates rolling a six-sided dice, updating the dice image on each roll.
+
+<p align="center">
+  <img src="https://github.com/shaikhmohammadtalha/google-android-course-projects/blob/main/DiceRollerApp/metadata/images/phoneScreenshots/01.png" width="230">
+  <img src="https://github.com/shaikhmohammadtalha/google-android-course-projects/blob/main/DiceRollerApp/metadata/images/phoneScreenshots/02.png" width="230">
+</p>
+
+---
+
+More projects will be added here as I continue progressing through the course.
