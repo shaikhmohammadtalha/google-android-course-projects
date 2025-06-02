@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+
+    <string name="art_1_content_description">Art 1 Cityscape</string>
+    <string name="art_2_content_description">Art 2 Open Source</string>
+    <string name="art_3_content_description">Art 3 World Map 1668</string>
+
+    <string name="art_1_art_title">Cityscape</string>
+    <string name="art_2_art_title">Open Source</string>
+    <string name="art_3_art_title">World Map</string>
+
+    <string name="art_1_art_artist">TEIKOKUSHOONEN, 2017</string>
+    <string name="art_2_art_artist">opensource.com, 2017</string>
+    <string name="art_3_art_artist">Van Schagen, 1668</string>
+
+    <string name="art_1_tool_tip">Teikoku Shônen, also known as Imperial Boy, is a professional artist known for his work in anime and concept art</string>
+    <string name="art_2_tool_tip">Opensource.com is a platform that shares knowledge, perspectives, and advocacy to support a healthy open ecosystem.</string>
+    <string name="art_3_tool_tip">Gerard van Schagen, an engraver and cartographer from Amsterdam, created several world maps during the late 17th century.</string>
+</resources>

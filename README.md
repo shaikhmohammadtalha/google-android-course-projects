@@ -47,8 +47,21 @@ All project ideas and most of the source code are based on the official course m
 - **Summary**: A Compose-based tip calculator app that demonstrates handling user input, UI state, keyboard actions, and toggle switches.
 
 <p align="center">
-  <img src="https://github.com/shaikhmohammadtalha/google-android-course-projects/blob/main/TipCalculatorApp/metadata/images/phoneScreenshots/01.png" width="230">
-  <img src="https://github.com/shaikhmohammadtalha/google-android-course-projects/blob/main/TipCalculatorApp/metadata/images/phoneScreenshots/02.png" width="230">
+  <img src="https://github.com/shaikhmohammadtalha/google-android-course-projects/blob/main/TipCalculator/metadata/images/phoneScreenshots/01.png" width="230">
+  <img src="https://github.com/shaikhmohammadtalha/google-android-course-projects/blob/main/TipCalculator/metadata/images/phoneScreenshots/02.png" width="230">
+</p>
+
+---
+
+## 🖼️ Project: Art Space App
+
+- **Source**: [Art Space App Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-art-space)
+- **Summary**: An interactive art display app built entirely from the codelab idea. Users can browse through different artworks using swipe gestures or navigation buttons. A long-press reveals tooltips with contextual information about each artist.
+
+<p align="center">
+  <img src="https://github.com/shaikhmohammadtalha/google-android-course-projects/blob/main/ArtSpace/metadata/images/phoneScreenshots/01.png" width="230">
+  <img src="https://github.com/shaikhmohammadtalha/google-android-course-projects/blob/main/ArtSpace/metadata/images/phoneScreenshots/02.png" width="230">
+  <img src="https://github.com/shaikhmohammadtalha/google-android-course-projects/blob/main/ArtSpace/metadata/images/phoneScreenshots/03.png" width="230">
 </p>
 
 ---
